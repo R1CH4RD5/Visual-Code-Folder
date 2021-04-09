@@ -1,3 +1,4 @@
+// Import mongoose
 var mongoose = require('mongoose');
 
 // Schema
